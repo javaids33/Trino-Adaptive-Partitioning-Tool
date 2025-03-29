@@ -1,4 +1,4 @@
-#Trino-Auto-Partitioning-Tool (T.A.P.T)
+# Trino-Auto-Partitioning-Tool (T.A.P.T)
 
 ## Overview
 
